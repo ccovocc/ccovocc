@@ -8,6 +8,8 @@
 
 <h3>👋 Hi, I'm TeaTea</h3>
 
+<p><em>Code is the process of reverse-engineering the world.</em></p>
+
 </div>
 
 <br />
